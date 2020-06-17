@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PFSoftware.MediaTracker", "PFSoftware.MediaTracker.csproj", "{74686FF4-DBD2-422F-B9DC-FDBDA97B0459}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PFSoftware.Extensions", "..\Extensions\PFSoftware.Extensions.csproj", "{8316929D-C978-48D8-9393-0AD8B0D219F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74686FF4-DBD2-422F-B9DC-FDBDA97B0459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74686FF4-DBD2-422F-B9DC-FDBDA97B0459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74686FF4-DBD2-422F-B9DC-FDBDA97B0459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74686FF4-DBD2-422F-B9DC-FDBDA97B0459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8316929D-C978-48D8-9393-0AD8B0D219F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8316929D-C978-48D8-9393-0AD8B0D219F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8316929D-C978-48D8-9393-0AD8B0D219F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8316929D-C978-48D8-9393-0AD8B0D219F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C566E0CE-DDCF-4A75-B4E2-FF21F367855E}
+	EndGlobalSection
+EndGlobal
